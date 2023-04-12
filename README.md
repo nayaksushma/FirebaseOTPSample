@@ -5,6 +5,6 @@ A basic project to demonstarte authenticating an user using firebase and phone O
 - Objective-C is used.
 
 
-#Build Instructions
+## Build Instructions
 - Open `FirebaseOTPSample.xcworkspace` in XCode.
 - Choose the desired device/simulator and run.
